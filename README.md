@@ -47,3 +47,4 @@ I run a self-hosted home lab (Proxmox, TrueNAS) and enjoy building infrastructur
 ---
 
 *Open to collaborating on Ruby on Rails and React projects, especially remote, async-first teams.*
+
