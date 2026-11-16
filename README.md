@@ -10,7 +10,7 @@
 
 ## Who I am
 
-I've been building production software since 2014. Today I work as a senior full-stack engineer at **LegalAtoms** (Seattle, remote) on a legal-tech platform, across Rails, Angular, AWS messaging, and real-time systems.
+I've been building production software since 2014. Today I work as a senior full-stack engineer at **LegalAtoms** (Seattle, remote) on a legal-tech platform built with a Rails API, Angular, and AWS, where I cut p95 document regeneration in production from 148 s to 48 s.
 
 Before that I spent three years at **Rankmi**, first as a full-stack developer and then as Engineering Team Lead: a team of 4 engineers in 2 squads on an HR-tech platform serving 100,000+ users, where we migrated 10+ microservices, reduced bugs by 75% in a year, and cut deployment times by 50%.
 
@@ -40,9 +40,9 @@ Architecture in short:
 - TOTP two-factor authentication, audit trails, and English/Spanish/Portuguese localization
 - About **5,000 automated tests** running in CI on **GitHub Actions**
 
-It went from active development to its first production sale in about 2 months, and has since recorded 2,000+ sales, 26,000+ stock movements, and 800+ production batches. The code is private; I'm happy to walk through it in a call.
+It went live with its first paying customer about two months after active development began. In its first six months in production, that customer's business ran 2,000+ point-of-sale transactions, 26,000+ stock movements, and 800+ production batches through the platform. The code is private; I'm happy to walk through it in a call.
 
-## Self-hosted multi-agent AI platform
+## Self-hosted multi-agent AI platform (personal project)
 
 I run a self-hosted platform where multiple AI agents do real work through the **Model Context Protocol (MCP)**:
 
